@@ -1,0 +1,11 @@
+#list_item_input {
+  width: 30%;
+}
+
+table {
+  margin: 20px 0;
+}
+
+.completed {
+  text-decoration: line-through;
+}
